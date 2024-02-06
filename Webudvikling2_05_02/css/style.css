@@ -1,0 +1,17 @@
+body {
+    background-color: blue;
+}
+
+/* aside{
+    margin-left: 200vw;
+} */
+
+aside {
+    background-color: red;
+    margin-left: -10px;
+    margin-right: auto;
+    width: 25vw;
+    height: 75vh;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
